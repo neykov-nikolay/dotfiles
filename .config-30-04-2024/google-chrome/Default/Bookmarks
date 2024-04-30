@@ -1,0 +1,147 @@
+{
+   "checksum": "c50e3a3aad69fc502f0669c478108926",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13331831430765272",
+            "date_last_used": "0",
+            "guid": "908bc679-60ae-4546-98c5-dd93bff7d184",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "over",
+            "type": "url",
+            "url": "https://github.com/ayu-theme/ayu-vim/tree/master"
+         }, {
+            "date_added": "13333558190856564",
+            "date_last_used": "0",
+            "guid": "522b6587-2295-480d-bbf2-c87b8813749d",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13338583355923953",
+            "date_last_used": "0",
+            "guid": "c551b68c-e4d9-4191-b93b-63daf0ce31e4",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "shell - How do I repeat the last command without using the arrow keys? - Unix & Linux Stack Exchange",
+            "type": "url",
+            "url": "https://unix.stackexchange.com/questions/147563/how-do-i-repeat-the-last-command-without-using-the-arrow-keys"
+         } ],
+         "date_added": "13357635622274677",
+         "date_last_used": "0",
+         "date_modified": "13338583355923953",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340183636422334",
+            "date_last_used": "0",
+            "guid": "cb705208-2c99-4cd4-9709-5a5049be4cc9",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Find and Change Screen DPI in Linux",
+            "type": "url",
+            "url": "https://winaero.com/find-change-screen-dpi-linux/"
+         }, {
+            "date_added": "13347842613268244",
+            "date_last_used": "0",
+            "guid": "7b89e7f7-d22d-4da7-ad0f-28e5ccdcc148",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Experiments",
+            "type": "url",
+            "url": "chrome://flags/"
+         }, {
+            "date_added": "13349886552876594",
+            "date_last_used": "0",
+            "guid": "81c4113a-fb6b-4c32-bd07-33bebec87435",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Awesome Wallpapers - wallhaven.cc",
+            "type": "url",
+            "url": "https://wallhaven.cc/"
+         }, {
+            "date_added": "13353169959944825",
+            "date_last_used": "0",
+            "guid": "0b7816c8-9ef6-4922-ad7c-597e4cddcf73",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Microsoft Teams Chat Files - OneDrive",
+            "type": "url",
+            "url": "https://tick42-my.sharepoint.com/personal/nikolay_neykov_interop_io/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnikolay%5Fneykov%5Finterop%5Fio%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2Fresources%2Epdf&parent=%2Fpersonal%2Fnikolay%5Fneykov%5Finterop%5Fio%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files"
+         }, {
+            "date_added": "13353410701238100",
+            "date_last_used": "0",
+            "guid": "6346b69f-b34a-430d-bebc-b30ac354e118",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "thebalkanfella (Ivan PIdov) · GitHub",
+            "type": "url",
+            "url": "https://github.com/thebalkanfella"
+         }, {
+            "date_added": "13354451509726069",
+            "date_last_used": "0",
+            "guid": "f4d5102f-c616-4679-b2d4-6e0b1bb2c964",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "serpstack - Free, Real-Time Google Search API",
+            "type": "url",
+            "url": "https://serpstack.com/"
+         }, {
+            "date_added": "13357981993372582",
+            "date_last_used": "0",
+            "guid": "b136c7b9-9aa1-46c7-a2a5-2e01d362a23e",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Config/home/.Xresources at master · MaskRay/Config",
+            "type": "url",
+            "url": "https://github.com/MaskRay/Config/blob/master/home/.Xresources"
+         } ],
+         "date_added": "13357635622274680",
+         "date_last_used": "0",
+         "date_modified": "13357981993372582",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13357635622274682",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCSxLtkltFgYAESxLtkltFgYAKeh3tkltFgYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgAIZRG0WBgARgAIZRG0WBgApzEW2SW0WBgAwgIXkoNTNhQMSACoYWExmRm9BeVlKbTIwc1ZJRGxRSkZyQT09SAMS7AEIDxLnAQocMFFWMys3M0xBNEUybEpWVmdPSlJpZC84eVlzPRJmWjpBRHF0QVp5NTZneHFMVmsrZ3F0RndDQUVpQ3R6aGVTTkxvYWg0b0NmcFdjZWZscjNMaDYzTGQ0RnNIMjBmWCtlYTdIbUY2WFF3RXdQMHo2K3Z2OFppWVJ4K0xJNCt2aHJkUT09GAAgAigCMNeZ7JnUzYUDOJ3DvKjvMUChw7yo7zFKHCttVXE2bXBSRkUxRFZHWCtsdTBZWi83RG9XND1aHyId/Vk1ZWJWSXB4M1hZblRPalpLNGZJdnZUOHRBVT1lwKUouhKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnpqeXY5ZWU1NFpOaWZXU1VnUEMyRlQrNzJnZWxqb1JMbUZraHdZK25PL3BpYmJMYUVyc21qN1dzdkFGSWRITmRzMVRWeWMYACAAKAAwvdWU+cnDhQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLrAQgFEuYBChxkSGxHamNNeFIxZVZuNFEwRURqZktxSVpsRlk9EmZaOkFEcXRBWnk1Nmd4cUxWaytncXRGd0NBRWlDdHpRZ0s3eEJCYTJ5Uk9sSHBjQlphdnVXeGpJQU9YMGM0T0VQMy9xTUM3VVNoOElLNWFrV3E3WFJ2WUt0dVZPVGlUQkdKNmlBPT0YACACKAIwhO+m/8nDhQM47ez08o0xQPGTqYPuMUocb1FBRjNzUk5jL01sY2dqejZQR0RlQm9keEVzPVoeIhx6RmdJQ3FSNXpaK1FwZFBNczBTNkhjSmhZVzQ9ZcClKLoS7AEICRLnAQocdVQrcExmOENvMXJpQmVvOVNqZEFiMnd3MFRJPRJmWjpBRHF0QVp5NTZneHFMVmsrZ3F0RndDQUVpQ3R6NkZkSk1Yc0NZWWZIQ04wR0U1dUtzTmVqU2tLVktxcUd3c1FlRVoya0tMdzkxZVlJWkdrbHBCaVVOaDljT0Q2Y1haNnpaZz09GAAgACgAMNHg14jIpoMDOJTw0cXJMUCU8NHFyTFKHDBvVUt2Z0ZmM29ZODZjVzdCL0h1V09zV0E1Yz1aHyIdtlpsbmVFZDNGRU9ZeVZBeE1KcWZIOGtMZmZyWT1l/biBGhLsAQgHEucBChxaNXN0RzZ2WDZVaFptY2dBUlNxMGhyUEorR1k9EmZaOkFEcXRBWnk1Nmd4cUxWaytncXRGd0NBRWlDdHpuQU9vc2t2cTRBbm51OXFXWUtDdFNZelNjQlQ1d1FoVHZkcDdDeVJqRExKSWkzSWZOTlowdWtLemVOTi9qTzNWRFA3ck1nPT0YACACKAIwhO+m/8nDhQM4lNS9hqcxQPKTqYPuMUocbTJZcDF0SURrYWtFbXdxeDdtamJOenlNOUxVPVofIh3eT2o5QUxWMm16VEVDcnV6dVNqTU5DcGlIT0E4PWXobVECEuwBCAoS5wEKHFUwTHV2VEZVemdZSk56azNHZ2ljTjBRQUxvQT0SZlo6QURxdEFaeTU2Z3hxTFZrK2dxdEZ3Q0FFaUN0ekJSVUN2VG85NCtYekVlZVJCaXV3TGoyUWttQ2ZhOTYzTC90YzlpWTJkczU5VzVGczlPK3JmUnpQVy9NRFBjRzZuMlNjRUE9PRgAIAAoADDa/v2qhuKDAzishqKU0TFArIailNExShxOK1dEZHhid29TL0dJUXpwTHpadXRnMVUvajA9Wh8iHdtQV21GZXVRSGxsM0c2UEo5NkJuam4wQTBzMUE9ZX59TCgSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5YmRSb1B4T0IzM2NNVWJaeVRDWE1rQzh1WHFScHh1bXh6Rk9zNm45MVE1c2J2R0JQaGlDU1QwcTFvRXppaXVORkJBVy9aRzJWM2w5MGRxcmlIUDh4NjRuYmpuUT09GAAgACgAML3VlPnJw4UDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEIDBLnAQoceFF2WERudnJXQnNod1dTdjhrQ2xBZWRtdXE0PRJmWjpBRHF0QVp5NTZneHFMVmsrZ3F0RndDQUVpQ3R6aVBnaWppaEFZNE1kMk9uZ3NqQmxTK2k4YmNsYkdUVWJpd25EeDl1RHF0SzJWNE1Dek1zUU1oNHBKZUNSWmZRdnVWUDZndz09GAAgACgAMKmb8OfOyIQDOLb/2qTeMUC2/9qk3jFKHExwUHRQUVVERHFTLzZKS0lLcDVnYnpDdmlZbz1aHyId9kZkLzlxN0YvYW1nVC8xU295Tkt0Z2QvVGRFdz1lwKUouhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWno3TEVtd0ZzaWwyZUJCRW1vTksrTG81U0s0eTBZbnFxOGhyVnZJYlV0TjFjbm14bW9hMERpb2tKOHdTekswM01LRkZPV25JQjJUTFFvY2RYMTBJLzAyS1ptZ2d3PT0YACAAKAAwvdWU+cnDhQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLrAQgIEuYBChwzTWtyUEpWSC96WDNZR1hKcWR3VW1Qd2cyZFk9EmZaOkFEcXRBWnk1Nmd4cUxWaytncXRGd0NBRWlDdHpNS2s0cnEyeDZocDI5ZGxxcCtGTlVwcG5CZjZGbkxzOUZjT0hxOTlxaFJTV1dneXEvRllMSTVXaFFSTkdnUzNReThWTEh3PT0YACAAKAAwgp3yk9THgQM4xoPHga0xQMaDx4GtMUocZ2M4UnJ3YVIzWWtWcXNHL0tHVnNzVkw5NlJzPVoeIhxtUmRRRHZWZjcyRTl6Tm9SR3lNcHZMS2hJclE9ZcD6dHoS7AEICxLnAQocYjUvUExqU2h4dlI1cXc1Tm1LZzFSRVcrUldrPRJmWjpBRHF0QVp5NTZneHFMVmsrZ3F0RndDQUVpQ3R6NjNTWS9MT1RSazJDeTJwYzRyMmhGb21tRW96eVgwdThOL0wweFNYWWxUMmxnMXQvOGRGWGZjcklBazVDNE5LZ0xhRnloQT09GAAgACgAMNPZlP3NwYQDOIio9bHdMUCIqPWx3TFKHDBrWGRXeVBncXIyeHRuRVdQTS9ZeFVWdFZuZz1aHyId7UZoanduN2R2ZGZpdXdqL1YvWXlPNHh5TDJKST1lAOoTTBLsAQgGEucBChxEM3BwQW5acXUrOHVyQTRkSzNXZVpqWXZXL1k9EmZaOkFEcXRBWnk1Nmd4cUxWaytncXRGd0NBRWlDdHo1d1JST25MbWdzYjBoYTMrSE5ROHMxTUsrdGlyODZ6azVoSXJGTmRRcnRRR2xYV0hwMGdVTXN6Z29JOElWY1VMMzdpMDd3PT0YACACKAIwhO+m/8nDhQM4iPalqpQxQPKTqYPuMUocblB4OW01djQzU0ZGVW1OZFVva3c0NERIUkFnPVofIh29UWtVVCthaVhRZEpSMGdiWWdnVlJGUC9SKy9NPWUQMP/kEuwBCA0S5wEKHDJUc0NMZGczK05QRENzMFpPYXpQZnBvSlZUWT0SZlo6QURxdEFaeTU2Z3hxTFZrK2dxdEZ3Q0FFaUN0ekJjTHZVdERDdWU3aWk3MmordUJSWFBmRW0vQjN0Q3orWHlvMFd4bjlVT0YwTjA0VDJ3bS80OU4zSzVMN2V6bDRtaEJIdlE9PRgAIAAoADD3jIeQ9OaEAzje84CV4jFA3vOAleIxShxYeTUveGtMZkRudnlNU3daMGcvSVd2ZWVyOW89Wh8iHftkVjJ6bFBUNGxSZzlNSVExRG9NWkpURVdGNTQ9ZcHbbQwwATgA",
+   "version": 1
+}

@@ -1,0 +1,16 @@
+2024/04/28-18:18:04.007 12cc Reusing MANIFEST /home/master/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/28-18:18:04.007 12cc Recovering log #120
+2024/04/28-18:18:04.008 12cc Reusing old log /home/master/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000120.log 
+2024/04/28-18:18:04.590 12ce Compacting 1@1 + 1@2 files
+2024/04/28-18:18:04.594 12ce Generated table #123@1: 695 keys, 57979 bytes
+2024/04/28-18:18:04.594 12ce Compacted 1@1 + 1@2 files => 57979 bytes
+2024/04/28-18:18:04.595 12ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/28-18:18:04.595 12ce Delete type=2 #121
+2024/04/28-18:18:04.595 12ce Delete type=2 #118
+2024/04/28-18:38:06.533 12cc Level-0 table #125: started
+2024/04/28-18:38:06.540 12cc Level-0 table #125: 1067834 bytes OK
+2024/04/28-18:38:06.541 12cc Delete type=0 #120
+2024/04/28-19:09:34.363 12cc Compacting 1@1 + 1@2 files
+2024/04/28-19:09:34.368 12cc Generated table #126@1: 693 keys, 57632 bytes
+2024/04/28-19:09:34.368 12cc Compacted 1@1 + 1@2 files => 57632 bytes
+2024/04/28-19:09:34.369 12cc compacted to: files[ 0 0 1 0 0 0 0 ]

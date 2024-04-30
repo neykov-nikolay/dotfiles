@@ -1,0 +1,37 @@
+- 1.1.11
+- _NAME: MX Vertical Wireless Mouse
+  _absent: [hi-res-scroll, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert, thumb-scroll-mode,
+    onboard_profiles, report_rate, report_rate_extended, pointer_speed, speed-change, backlight, backlight_level, backlight_duration_hands_out, backlight_duration_hands_in,
+    backlight_duration_powered, backlight-timed, led_control, led_zone_, fn-swap, disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds,
+    mr-key-led, multiplatform, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 0x1000
+  _modelId: B020407BC08A
+  _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
+  _serial: 11F8CBD4
+  _unitId: C5A70966
+  _wpid: 407B
+  change-host: null
+  divert-keys: {0x52: 0x0, 0x53: 0x0, 0x56: 0x0, 0xfd: 0x0}
+  dpi: 0x320
+  lowres-scroll-mode: false
+  persistent-remappable-keys: null
+  reprogrammable-keys: {0x50: 0x50, 0x51: 0x51, 0x52: 0x52, 0x53: 0x53, 0x56: 0x56, 0xfd: 0xfd}
+- _NAME: MX Mechanical Mini
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed, dpi, speed-change, backlight_level, backlight_duration_hands_out,
+    backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control, led_zone_, reprogrammable-keys, persistent-remappable-keys, crown-smooth,
+    divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 0x1004
+  _modelId: B36700000000
+  _sensitive: {backlight: false, divert-keys: false, multiplatform: false}
+  _serial: 63AC36DB
+  _unitId: 63AC36DB
+  _wpid: B367
+  backlight: 0x0
+  change-host: null
+  disable-keyboard-keys: {0x1: false, 0x4: false, 0x8: false, 0x10: false}
+  divert-keys: {0xd4: 0x0, 0xe2: 0x0, 0xe3: 0x0, 0xe7: 0x0, 0xe8: 0x0, 0xe9: 0x0, 0x103: 0x0, 0x108: 0x0, 0x10a: 0x0, 0x10b: 0x0, 0x10c: 0x0, 0x10d: 0x0,
+    0x10e: 0x0, 0x10f: 0x0, 0x110: 0x0, 0x111: 0x0, 0x112: 0x0, 0x115: 0x0, 0x117: 0x0, 0x118: 0x0, 0x119: 0x0, 0x11a: 0x0, 0x11b: 0x0, 0x11c: 0x0, 0x11e: 0x0,
+    0x13c: 0x0, 0x141: 0x0}
+  fn-swap: false
+  multiplatform: 0x0
