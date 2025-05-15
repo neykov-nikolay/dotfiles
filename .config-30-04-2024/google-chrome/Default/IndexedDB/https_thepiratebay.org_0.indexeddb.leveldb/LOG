@@ -1,6 +1,0 @@
-2024/04/25-14:05:16.170 83ba Creating DB /home/master/.config/google-chrome/Default/IndexedDB/https_thepiratebay.org_0.indexeddb.leveldb since it was missing.
-2024/04/25-14:05:16.172 83ba Reusing MANIFEST /home/master/.config/google-chrome/Default/IndexedDB/https_thepiratebay.org_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/25-14:06:15.980 83ba Level-0 table #5: started
-2024/04/25-14:06:15.981 83ba Level-0 table #5: 817 bytes OK
-2024/04/25-14:06:15.981 83ba Delete type=0 #3
-2024/04/25-14:06:15.981 83ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

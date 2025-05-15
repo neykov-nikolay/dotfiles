@@ -1,3 +1,0 @@
-var e,r,t,o;r={},t={},null==(o=(e=globalThis).parcelRequire4cfd)&&((o=function(e){if(e in r)return r[e].exports;if(e in t){var o=t[e];delete t[e];var i={id:e,exports:{}};return r[e]=i,o.call(i.exports,i,i.exports),i.exports}var n=Error("Cannot find module '"+e+"'");throw n.code="MODULE_NOT_FOUND",n}).register=function(e,r){t[e]=r},e.parcelRequire4cfd=o),(0,o.register)("cg86O",function(e,r){Object.defineProperty(e.exports,"DEFAULT_ORIGIN_LIST",{get:()=>t,set:void 0,enumerable:!0,configurable:!0});let t=["https://hoppscotch.io"]}),o("cg86O");//# sourceMappingURL=defaultOrigins.js.map
-
-//# sourceMappingURL=defaultOrigins.js.map
