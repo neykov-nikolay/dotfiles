@@ -1,0 +1,9 @@
+2025/05/15-10:00:10.161 8a8 Creating DB /home/master/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb since it was missing.
+2025/05/15-10:00:10.163 8a8 Reusing MANIFEST /home/master/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/15-10:00:10.166 8a8 Level-0 table #5: started
+2025/05/15-10:00:10.166 8a8 Level-0 table #5: 642 bytes OK
+2025/05/15-10:00:10.167 8a8 Delete type=0 #3
+2025/05/15-10:00:10.167 8aa Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/15-10:00:15.278 8a9 Level-0 table #7: started
+2025/05/15-10:00:15.289 8a9 Level-0 table #7: 2929754 bytes OK
+2025/05/15-10:00:15.290 8a9 Delete type=0 #4

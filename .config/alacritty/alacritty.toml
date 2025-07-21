@@ -1,0 +1,4 @@
+general.live_config_reload = true
+
+font.normal.family = "Mononoki Nerd Font"
+font.size = 16

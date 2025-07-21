@@ -1,21 +1,58 @@
 { pkgs, ... }: {
   environment.systemPackages = with pkgs; [
+    nodejs
     fd
     fzf
     ripgrep
     lazygit
-    alacritty
     google-chrome
     gcc
-    nerdfonts
-    dmenu
-    xmobar
-    nitrogen
     cargo
-    luarocks
-    easyeffects
     obs-studio
     mpv
     gh
+    tldr
+    vim
+    variety
+    oversteer
+    pipewire
+    wireplumber
+    cmake
+    gnumake
+    libtool
+    shellcheck
+    neofetch
+    wofi
+    wl-clipboard
+    go
+    coreutils
+    bluez-tools
+    citrix_workspace
+    vim
+    wev
+    udiskie
+    unzip
+    htop
+    git
+    foot
+    zoom-us
+    starship
+    steam
+    usbutils
+    pavucontrol
+    transmission_4-gtk
+    curl
+    wget
+    python3
+    luarocks
+    ldacbt
+    lua
+    neovim
+    graphite-gtk-theme
+    tela-icon-theme
+    nwg-look
+    graphite-cursors
+    gdm-settings
   ];
+
 }

@@ -1,0 +1,158 @@
+{
+   "checksum": "ca05589e37b76ff3d845d106da6a62ea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13391675643162487",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13370510066808373",
+            "date_last_used": "0",
+            "guid": "391ca469-6274-414c-85ec-94c78a83dc42",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "type": "url",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim"
+         }, {
+            "date_added": "13373192598197281",
+            "date_last_used": "0",
+            "guid": "f7267349-e61a-4b7b-bd4b-2e97227a8fbd",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "x",
+            "type": "url",
+            "url": "https://github.com/powerman/wcwidth-icons"
+         }, {
+            "date_added": "13373281534997121",
+            "date_last_used": "0",
+            "guid": "bec1bfec-153d-49e1-bc1a-16ad51d79dfa",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "xterm(1)",
+            "type": "url",
+            "url": "https://invisible-island.net/xterm/manpage/xterm.html#h3-Default-Key-Bindings"
+         }, {
+            "date_added": "13373799246637810",
+            "date_last_used": "0",
+            "guid": "5a33775e-cb1c-4903-9311-ce0027b14186",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Изпитни въпроси за придобиване на правоспособност за управление на МПС",
+            "type": "url",
+            "url": "https://rta.government.bg/bg/archive_p_testovevodachi"
+         }, {
+            "date_added": "13373887016613104",
+            "date_last_used": "0",
+            "guid": "6f925fc6-e5e5-4001-8a92-eeecffb6780a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "127.0.0.1:8080",
+            "type": "url",
+            "url": "http://127.0.0.1:8080/"
+         }, {
+            "date_added": "13375098115295014",
+            "date_last_used": "0",
+            "guid": "fa56c0b4-c226-4899-a1b6-ed42d845a4c4",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "download.nvidia.com/XFree86/Linux-x86/1.0-7174/nvidia-settings-user-guide.txt",
+            "type": "url",
+            "url": "https://download.nvidia.com/XFree86/Linux-x86/1.0-7174/nvidia-settings-user-guide.txt"
+         }, {
+            "date_added": "13375790121247579",
+            "date_last_used": "0",
+            "guid": "6cef4825-ef70-497a-969f-15b7d5a3de4d",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "XTerm Configuration",
+            "type": "url",
+            "url": "https://gist.github.com/taviso/a4543b1752fba55017e8fcc2fe052c0a"
+         }, {
+            "date_added": "13388912761639872",
+            "date_last_used": "0",
+            "guid": "20b32048-a51d-4de1-872d-ea1cf23c54e1",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "xtermjs/xterm.js: A terminal for the web",
+            "type": "url",
+            "url": "https://github.com/xtermjs/xterm.js"
+         }, {
+            "date_added": "13388934413459523",
+            "date_last_used": "0",
+            "guid": "7870020d-fc26-47a9-b1d4-ed1332ded451",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "igold | Инвестиционно злато | Златни монети и кюлчета",
+            "type": "url",
+            "url": "https://igold.bg/"
+         }, {
+            "date_added": "13388934422667024",
+            "date_last_used": "0",
+            "guid": "37e1ecba-8622-4ab4-9e09-f17da38269a1",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Limar24 - Инвестиционно злато, застраховане и кредитиране",
+            "type": "url",
+            "url": "https://limar24.bg/"
+         }, {
+            "date_added": "13388993055608400",
+            "date_last_used": "0",
+            "guid": "c109db69-7b29-4524-a7eb-ec5a53db2e62",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "picom(1)",
+            "type": "url",
+            "url": "https://picom.app/#_presets"
+         } ],
+         "date_added": "13391675643162489",
+         "date_last_used": "0",
+         "date_modified": "13388993055608400",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13391675643162490",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpASAAkgGjAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJZNLkLhI1BgARZNLkLhI1BgAiNAmZ3t0uEjUGABADGcIB6F41vl0oIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmZ3t0uEjUGABADGcIB6F41vl0oIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEp/+DkLhI1BgASACoYSUxhNU5ndFpmVWZOUVh6SVdIWHdZdz09SAMS7AEIDxLnAQocMm9JK3d5QnVwOEN5Wlp1SVdWbmNEQzdXMk44PRJmWjpBRHF0QVp5bHZuUm9uM2R1cUVlMThyUCs3TnlnN3R3ZWg3Zndub1RCeXBpSUFNaC91SExpSjhrRC94SDVQbXplUGxSTnA2SWx3SFQ5V1RDYi85R3FJbFhrS1Q2eVluNFhyUT09GAAgACgAMMHm2bSZ1IwDOPjG2eviMkD4xtnr4jJKHEk5eXBrSDNnb01vbFRLNjRyQmdKYy9iRGlaVT1aHyId/3hlNnF0c2JaY05EN1cyRjVOTmR5dThCN1RFQT1lAAAAABLsAQgOEucBChx0RXVVeFBndEZCSit3UkVVMytOdldaZlFqK1U9EmZaOkFEcXRBWnlsdm5Sb24zZHVxRWUxOHJQKzdOeWdZYnNTTkxSK2dtZUZZWXRST0FZcUlUcmVSbXZIT1BHbEZaclBpMys3NE11cE5HZGZYanBIY1c3YXg3MkNlSU44ZVpCbm1BPT0YACAAKAAwwdif/r7SjAM4i/Hez+IyQIvx3s/iMkocS0hVYTRnZlJ0Z0QzcHg2clRCSXQyQjNjVVN3PVofIh3/OGs5cisvQWZ4SUFQTWFGNG5GeWxKdnlHaFBJPWV2x+n/EuwBCA0S5wEKHGJ1N1dJcE03WHpVQ1NGeUtnSE5ZOGZWNkVFND0SZlo6QURxdEFaeWx2blJvbjNkdXFFZTE4clArN055Z3JKQ20vb0RCQlg4WnN0cko5Rk9mRU9Wd09raEsrQW0xbEtlTlRhbjRQVGZVQVIybkNndXhQQkJwSlFMMmVMZXFERytJQXc9PRgAIAAoADC61vD5vtKMAziTqd7P4jJAk6nez+IyShxkam5RaVNUU1RRWWpqcS9jWTdGSDRuY2lKUms9Wh8iHf42MVFKSVVUSjhMOGNuc0F3OWQ1akM4SmUzZkk9Zfv1SXES7AEIChLnAQocTDlvVGk2dFNIb0NWMjgvcjFVRFBwS1lVOTdVPRJmWjpBRHF0QVp5bHZuUm9uM2R1cUVlMThyUCs3Tnlnd0VwOXUwSGJoSFJkVUN1b3c3L3hzb0ZMdEJlTVVmZ1F2WXJlYWdVb1ppVSswRlJYZklZZG9DTzQyQi9DdnpsRUR0MWZ6QT09GAAgACgAMPj16dvmv4kDON/ZiYqvMkDf2YmKrzJKHEUzRDVodzAyQlNqZG1XYjJtOW5XSDhlenRVaz1aHyId929BRFU0MW9lK0htQkNxcDVBQUx5TkE4cHNhUT1lAAAAABLsAQgJEucBChxsYkU2d01VSGZhL2FrcmNDZXczM2VyQUdyS0k9EmZaOkFEcXRBWnlsdm5Sb24zZHVxRWUxOHJQKzdOeWc5T3ovdG9LSXp0eXBsS0VFa0tmVXFDQmlvUkdQMHN1Yi8wVTFhZERpdGd2bXE3cEhoaWpqK0s1ZXR1eUEwVGxYVys3SjJnPT0YACAAKAAwicP0g8eciQM4pY3KyKoyQKWNysiqMkocak5Pd2o0azZSaW9seVlHUWFRdmdjeUxzVXFvPVofIh3uMjJXM2VmOU9MMTMxNkhpLzZyOWx3UXdPRkg0PWUAAAAAEuwBCAsS5wEKHGNjbERwZTU1eHdwa3hVcGFtMzVBWE1FVFRNVT0SZlo6QURxdEFaeWx2blJvbjNkdXFFZTE4clArN055Z1M3clJ6S3RTZjRIRTRkek5qMmFUa2FMcHJFMjdrNHVkeDNXbnhjQU5iVTFObDlkanI4UW9zRUpLYmlRdkV5R0hXUXcxc1E9PRgAIAAoADD1/vXS+NOJAzifsobUsTJAn7KG1LEyShxsYnkxYk5iYVNqOTdvdXVtd3ZackRLVTE4Kzg9Wh8iHftRZE1ta0RKdVVndHpwU3lud09XdmVPNlJQeTg9ZcjzP7sS7AEIBxLnAQocTWtRb1o3aStFT25MdUlyWGdUWndSclh6ZmdNPRJmWjpBRHF0QVp5bHZuUm9uM2R1cUVlMThyUCs3TnlnVlJIYmc5WExuU0p1SnNoVkc0QkhSVThiRVByUS9HcUlVNEtSQmJmMFdBaDEza0xtUG9jcVUxeFNRVkRlNUhkVE5oS1NiZz09GAAgACgAMJrT5bf3iokDOJW47qeoMkCVuO6nqDJKHEN1QnNQMmZGRStmT29SRmNzR2tNbUN3Y09YRT1aHyIduUJnSzNzclpHMzZUU29Td2V2VTBjM2piNlJzOD1lqzDy6RLsAQgIEucBChw3Y3Fjcm91Y3hxMjJwbTgya1FPTkxrMkdZTkU9EmZaOkFEcXRBWnlsdm5Sb24zZHVxRWUxOHJQKzdOeWdMcXJqUEdBTUEyR0JLcE1TLy90OFZPMUw3bFczUWJzNmZMSFBOUFpTWjhDeFVLMGt6VHpCNUszYk1zWVdlU09Jdlkvc0xRPT0YACAAKAAwptf4h4CaiQM4robdnqoyQK6G3Z6qMkocSW16RzFURkwrYlk1Q1pWeFY0VXlsazZVdWJFPVofIh3cV28xQTZHSlNta3ZuOWFVbG9nUkxoc0JBRkd3PWWcK39sEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeEI2QTVDNGZhUEFKWE1hM0s4YUF4MzRQZkNjY0pXOFZPdEgvVXlibmRwb0RNNEpzdzhkUGVLamxuYnBnUy9mV0wrV0laRVJBOFZWMGtqa2xnbjFacFhuL0V2VVE9PRgAIAAoADCZvff2oqKNAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAUS5gEKHExNY3krNlRMUTY2OUFFVENveTgxeFZxV3l0MD0SZlo6QURxdEFaeWx2blJvbjNkdXFFZTE4clArN055Z2FWOStrdTVKUCtXbmhSNHErK0MwUi9aM2U1eEkvbjJxb3J1V2FnTW1OM0JwNGZPVng1Sml0RG44Q3FOQUxlTTNrSVUyUnc9PRgAIAAoADDKzeP0orqIAzj4uKn+nTJA+Lip/p0yShxMWUpZSk5nRit0a3BFaHRTSnExTVFMUGUrNjQ9Wh4iHDNYc0s5VDRTa3pNTlBwZkVXQk92L1g3SUNWZz1lyPM/uxLsAQgMEucBChw4dUM5a2JqaTFDUGprSWRQWU1MMGh0akUxM2M9EmZaOkFEcXRBWnlsdm5Sb24zZHVxRWUxOHJQKzdOeWcrTURyQUdSZUJUeXMzTVl2T3Exc2JzdS9WZEF2cWRKWkxCYnhJbFdyMFhFcnpPZ0pCQ2QrTysyTnhocVlOSlBzOU16VjB3PT0YACAAKAAw9bu7pe7RjAM4qOa0xeIyQKjmtMXiMkocT0xWeTJCcFp4Z1RWTjhiZmhRa3JXZFlzdm5ZPVofIh39VTZMMlNybEhISy9lWU0xV090WEc3eXFmdGYwPWUVUPmJEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaemUvdDZFYWJRT2ZibHFpOUd4OUNpV3hnT2NISDI2MDZINzRGMXJZWVBpUHdsQ3J6WWIvNFpBR3dtVnV5WWMxU1ZKOWNBU3JWbjRIaEdxaXVYcjZCVlhLS1hIUnc9PRgAIAAoADCZvff2oqKNAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCAYS5gEKHERiQnFjbU5ScGwwcWhBWUVIWkZ5WTRIdUFzWT0SZlo6QURxdEFaeWx2blJvbjNkdXFFZTE4clArN055Z21LdUgvLzBJcU5yYnYwaE9EYm1OMCs4SGE3REhRYzBKTjR0RVI1dHU3YXhzNHVyR2h6NFVMejB4MUxtLytsdUR5d1Ezb1E9PRgAIAAoADCu9LWPrIiJAzi1lbr9pzJAtZW6/acyShx5OFJoYlhKSVJhYmFkKzlZQWdUNFlVdDg2UG89Wh4iHHJvTDkwSmVZek1abVFHcjVzS2NydVJYbEE3VT1lyPM/uxKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWng3cWRCejB2aWZKeDVpK1NaK25qUitOWUJ0anVieno2QnFteVhXL3NFUHNwMFk1S0xaRHZVTG90YTdBNXpCYkJwUWlSSkwYACAAKAAwmb339qKijQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAADABOAA=",
+   "version": 1
+}
