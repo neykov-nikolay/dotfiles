@@ -53,6 +53,7 @@
     nwg-look
     graphite-cursors
     gdm-settings
+    gnome-tweaks
   ];
 
 }
